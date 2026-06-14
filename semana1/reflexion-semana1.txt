@@ -1,0 +1,9 @@
+El uso responsable de la información y la participación ciudadana están conectados directamente con la ética digital.
+Al verificar lo que compartimos, protegemos a la comunidad de noticias falsas y ejercemos una ciudadanía consciente.
+Por su parte, el trabajo técnico con herramientas como Git aporta la estructura necesaria para que este proceso sea transparente.
+Git no solo organiza archivos, sino que registra la autoría, el historial y la evolución de nuestras ideas en la red.
+Llevar un control de versiones nos vuelve responsables de lo que construimos y publicamos de cara a la sociedad.
+Así, la rigurosidad técnica se alinea con el compromiso social de informar con la verdad y colaborar de forma abierta.
+El pensamiento algorítmico nos ayuda a estructurar este proceso, dividiendo la verificación en pasos claros y lógicos.
+Finalmente, usar GitHub nos permite visibilizar el trabajo, abriendo canales para una participación democrática y segura.
+Aprender estas tecnologías nos prepara para ser ciudadanos digitales capaces de generar un impacto positivo y ordenado.
