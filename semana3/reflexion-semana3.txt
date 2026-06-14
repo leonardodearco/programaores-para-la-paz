@@ -1,0 +1,9 @@
+Llevar un registro de cambios con Git es vital en el desarrollo de software porque garantiza la trazabilidad del proyecto.
+Esta bitácora histórica permite saber con total precisión qué se modificó, cuándo se hizo y quién fue el autor de cada línea.
+Si un error inesperado daña el sistema, el equipo de desarrollo puede revertir el código a una versión estable en segundos.
+Contar con este respaldo reduce la incertidumbre y evita la pérdida accidental de código o la sobreescritura de archivos compartidos.
+Además, facilita enormemente el trabajo en equipo, ya que múltiples programadores pueden intervenir el código simultáneamente.
+El uso de commits estructurados ayuda a documentar de forma natural el progreso y la toma de decisiones técnicas de la aplicación.
+Esto elimina la caótica y obsoleta práctica de renombrar archivos manualmente como copias finales o respaldos repetidos.
+A largo plazo, un historial limpio simplifica el mantenimiento del software y agiliza las auditorías de seguridad del sistema.
+En definitiva, el control de versiones transforma el caos creativo de la programación en un proceso de ingeniería seguro y profesional.
