@@ -1,0 +1,9 @@
+Que las iniciativas ciudadanas construyan sus propias herramientas con Node.js es clave para su autonomía digital.
+Depender de software comercial cerrado amarra a las comunidades a sus costos, políticas de uso y control de datos.
+Al utilizar tecnologías abiertas, los ciudadanos recuperan la soberanía sobre la información que generan y gestionan.
+Node.js ofrece un entorno ágil, potente y respaldado por una comunidad global masiva que facilita el aprendizaje compartido.
+Esto permite crear plataformas personalizadas que respondan a problemas locales reales, como redes de apoyo o monitoreo social.
+Además, reduce la brecha económica al eliminar la necesidad de costosas licencias para poner en marcha un servidor web.
+El código abierto fomenta la transparencia, ya que cualquiera puede auditar cómo funciona el sistema y asegurar la privacidad.
+Dominar estas herramientas empodera a los colectivos, transformándolos de simples consumidores a creadores de su propia tecnología.
+Así, el desarrollo técnico se convierte en un motor de cambio social que fortalece la participación democrática e independiente.
