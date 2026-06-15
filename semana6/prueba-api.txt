@@ -1,0 +1,13 @@
+Resultados de la prueba de la ruta POST /registro:
+
+Al enviar la petición POST a http://localhost:3000/registro con el JSON de Maria, el servidor procesa con éxito el cuerpo de la solicitud gracias al middleware express.json(). 
+
+La API devuelve un estado HTTP 200 OK junto con un objeto JSON de respuesta exacta que dice:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto demuestra que el backend es capaz de interceptar datos externos dinámicos mediante req.body y responder de forma estructurada e inmediata al cliente.
