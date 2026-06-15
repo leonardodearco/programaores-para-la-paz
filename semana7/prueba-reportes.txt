@@ -1,0 +1,7 @@
+Resultados de la prueba al consultar los reportes (GET /reportes):
+
+Al realizar la consulta mediante el método GET a la dirección http://localhost:3000/reportes después de haber enviado los datos por POST, el servidor responde exitosamente devolviendo un estado HTTP 200 OK junto con el array de JavaScript transformado a formato JSON.
+
+El navegador o el cliente de pruebas (Postman/Thunder Client) muestra la lista completa de todas las incidencias guardadas temporalmente en la memoria del servidor. La respuesta contiene una estructura ordenada de corchetes y llaves donde cada reporte incluye su id numérico autoincremental, el tipo de problema y su descripción detallada. 
+
+Si el servidor se reinicia, este array se limpia por completo y al consultar la ruta GET se obtiene una lista vacía [].
