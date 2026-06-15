@@ -1,0 +1,9 @@
+Garantizar la estabilidad y seguridad de un servidor es la base para sostener cualquier proceso participativo.
+Si el servidor de una comunidad se cae continuamente, la plataforma pierde utilidad y genera desconfianza vecinal.
+Los ciudadanos necesitan la certeza de que el sistema responderá rápido cuando requieran enviar una alerta urgente.
+Un entorno de servidor descuidado expone los datos privados recopilados, haciéndolos vulnerables a hackeos.
+La seguridad en la infraestructura evita que actores malintencionados alteren los reportes o saboteen la base de datos.
+El monitoreo técnico mediante logs permite identificar fallas antes de que afecten la experiencia de los usuarios.
+Contar con servidores robustos legitima el trabajo del colectivo frente a las instituciones públicas del sector.
+Además, la estabilidad técnica asegura que los canales de comunicación sigan siendo democráticos, autónomos y libres.
+En conclusión, mantener un servidor sano protege la organización social y blinda digitalmente el esfuerzo comunitario.
