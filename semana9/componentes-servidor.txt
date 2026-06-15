@@ -1,0 +1,16 @@
+Funciones de los componentes del entorno servidor:
+
+Sistema operativo
+Administra el hardware del equipo y provee la base de software y los permisos necesarios para poder ejecutar todas nuestras herramientas de desarrollo y controlar las conexiones de red.
+
+Node.js
+Es el entorno de ejecución que nos permite interpretar y correr código de JavaScript del lado del servidor, fuera del navegador web tradicional, gestionando múltiples peticiones de manera rápida.
+
+Aplicación server.js
+Es el archivo de código fuente donde programamos la lógica de nuestro backend, configurando Express, creando las rutas de comunicación y definiendo cómo responderá el sistema a los usuarios.
+
+Puerto
+Es un punto de acceso o puerta de entrada virtual específica dentro de la dirección de red del servidor, asignado en este caso al número 3000, que permite dirigir el tráfico web directamente a nuestra app.
+
+Logs
+Son archivos de registro de texto donde el servidor anota cronológicamente todo lo que ocurre en el sistema, como errores, inicios de sesión o conexiones, sirviendo de bitácora para el monitoreo técnico.
