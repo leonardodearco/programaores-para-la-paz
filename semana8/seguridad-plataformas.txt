@@ -1,0 +1,5 @@
+1. No exponer datos personales públicamente (anonimizar nombres y teléfonos).
+2. Proteger credenciales mediante el uso de contraseñas fuertes y hashing.
+3. Usar conexiones seguras y cifradas a través de protocolos HTTPS.
+4. Registrar accesos y auditorías de acciones críticas en el servidor.
+5. Limitar acceso a información sensible definiendo roles y permisos estrictos.
