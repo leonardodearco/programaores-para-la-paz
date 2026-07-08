@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+- id (Identificador único)
+- titulo (Texto corto)
+- descripcion (Texto largo)
+- categoria (Texto, ej. "Medio ambiente", "Seguridad")
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar de forma estructurada las iniciativas, proyectos o problemáticas comunitarias que los ciudadanos proponen y que se visualizarán públicamente en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Identificador único)
+- causa_id (Relación con la entidad Causa)
+- usuario_id (Relación con el usuario que apoya)
+- fecha_apoyo (Fecha y hora)
+
+Propósito:
+Registrar y cuantificar cada muestra de respaldo que recibe una causa específica, permitiendo auditar la participación ciudadana y evitar que un mismo usuario vote varias veces.
