@@ -1,0 +1,8 @@
+[ALTA PRIORIDAD]
+1. Como ciudadano, quiero reportar un bache o daño en la vía pública con una descripción básica para dejar evidencia del estado de las calles.
+
+[MEDIA PRIORIDAD]
+2. Como coordinador de veeduría, quiero recibir una alerta automática para enterarme de inmediato cuando un ciudadano suba un nuevo reporte.
+
+[BAJA PRIORIDAD]
+3. Como miembro del equipo de soporte, quiero consultar la lista de reportes históricos para hacer seguimiento al estado de las soluciones implementadas.
