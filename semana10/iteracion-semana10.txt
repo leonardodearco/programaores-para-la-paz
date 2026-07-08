@@ -1,0 +1,11 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: El reporte de daños en la vía pública por parte del ciudadano.
+- Tarea 2: La alerta automática para el coordinador de veeduría.
+
+2. ¿Por qué son las más importantes?
+Porque constituyen el núcleo de la solución (el Producto Mínimo Viable). Sin la capacidad de recibir el reporte del ciudadano no existe información que procesar, y sin la alerta rápida al coordinador, el proceso de veeduría pierde la agilidad necesaria para reaccionar a tiempo.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”? (Definición de Terminado / DoD):
+- El código o la configuración del flujo funciona correctamente sin errores.
+- Se realizaron pruebas exitosas simulando el flujo de un usuario real.
+- Los cambios fueron guardados y subidos al repositorio remoto en GitHub.
