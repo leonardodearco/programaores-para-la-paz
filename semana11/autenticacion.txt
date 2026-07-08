@@ -1,0 +1,3 @@
+El login es el mecanismo que permite comprobar la identidad de un usuario mediante credenciales antes de otorgarle acceso a la plataforma.
+Es fundamental proteger ciertas rutas porque contienen funcionalidades administrativas, registros internos o acciones críticas que un usuario no autorizado podría alterar o destruir de forma malintencionada.
+Por lo tanto, la plataforma debe restringir estas secciones y jamás exponer públicamente datos sensibles como las contraseñas en texto plano, números de documentos de identidad, direcciones físicas, números telefónicos personales o tokens de acceso a la API.
