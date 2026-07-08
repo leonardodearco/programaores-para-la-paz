@@ -1,0 +1,7 @@
+La interfaz de la plataforma contará con una sección principal donde se ubicará un formulario intuitivo para crear una causa, el cual solicitará los campos de título, descripción detallada y categoría.
+
+En la pantalla central se presentará la vista de causas disponibles, organizada en tarjetas (cards) limpias y ordenadas que permitirán a cualquier ciudadano leer las propuestas activas de la comunidad.
+
+Cada tarjeta de causa integrará de manera visible un contador de apoyos numérico y, justo al lado, un botón para apoyar la causa que reaccionará al instante de ser presionado por un usuario autenticado.
+
+Toda la interfaz visual mantendrá un diseño claro, accesible y sencillo, garantizando en todo momento que la información privada o sensible de los usuarios permanezca completamente oculta a la vista pública.
