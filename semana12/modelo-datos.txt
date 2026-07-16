@@ -1,0 +1,22 @@
+Modelo de Datos de "Petición en 3 Clics"
+
+ENTIDAD 1: Causa
+-----------------------------------------
+Atributos:
+- id (Clave Primaria, Numérico/UUID): Identificador único de la causa en el sistema.
+- titulo (Texto): Nombre descriptivo y corto de la petición ciudadana.
+- descripcion (Texto largo): Detalle del problema comunitario y la solución solicitada.
+- fecha (Fecha): Día y hora en que se creó y publicó la causa.
+
+Propósito de la entidad: Almacena de manera centralizada la información principal de los problemas o propuestas comunitarias que los ciudadanos quieren impulsar para que otros puedan leerlas y decidir si unirse.
+
+
+ENTIDAD 2: Apoyo
+-----------------------------------------
+Atributos:
+- id (Clave Primaria, Numérico/UUID): Identificador único del registro de apoyo.
+- causa_id (Clave Foránea): Relación directa que vincula este apoyo a una "Causa" específica.
+- nombre (Texto): Nombre del ciudadano que apoya (o identificador anonimizado si se busca máxima privacidad).
+- fecha (Fecha): Registro de cuándo se sumó el apoyo.
+
+Propósito de la entidad: Permite registrar y contabilizar de forma individualizada cada respaldo que recibe una causa específica, evitando duplicados y sirviendo como base para calcular el volumen de participación comunitaria antes de generar el PDF final.
