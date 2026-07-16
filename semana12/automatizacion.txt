@@ -1,0 +1,27 @@
+Propuesta de Automatización de Notificaciones
+
+1. Herramienta propuesta: Telegram (a través de un Bot) conectado mediante n8n.
+2. Evento que activa la automatización (Trigger): Registro exitoso de una nueva causa en la base de datos de la plataforma.
+3. Mensaje que se envía:
+   "📢 ¡Nueva causa comunitaria creada! 
+   Se ha registrado la iniciativa: '{titulo_causa}'.
+   Súmate y apoya esta causa ingresando a la plataforma para que logremos generar la petición formal."
+4. Información que NO debe enviarse por motivos de privacidad y seguridad:
+   - Nombres completos de los creadores o de los firmantes.
+   - Números de documento de identidad (cédulas o pasaportes).
+   - Teléfonos celulares o correos electrónicos personales.
+   - Direcciones físicas exactas de los hogares de los ciudadanos.
+   - Comentarios o quejas que contengan acusaciones personales o datos sensibles.Propuesta de Automatización de Notificaciones
+
+1. Herramienta propuesta: Telegram (a través de un Bot) conectado mediante n8n.
+2. Evento que activa la automatización (Trigger): Registro exitoso de una nueva causa en la base de datos de la plataforma.
+3. Mensaje que se envía:
+   "📢 ¡Nueva causa comunitaria creada! 
+   Se ha registrado la iniciativa: '{titulo_causa}'.
+   Súmate y apoya esta causa ingresando a la plataforma para que logremos generar la petición formal."
+4. Información que NO debe enviarse por motivos de privacidad y seguridad:
+   - Nombres completos de los creadores o de los firmantes.
+   - Números de documento de identidad (cédulas o pasaportes).
+   - Teléfonos celulares o correos electrónicos personales.
+   - Direcciones físicas exactas de los hogares de los ciudadanos.
+   - Comentarios o quejas que contengan acusaciones personales o datos sensibles.
