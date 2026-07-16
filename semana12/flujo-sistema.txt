@@ -1,0 +1,7 @@
+Flujo del Sistema: "Petición en 3 Clics"
+
+1. Creación de la Causa: Un líder comunitario o ciudadano ingresa a la plataforma y registra una nueva causa o necesidad colectiva (por ejemplo, "Reparación del parque del barrio") agregando un título y una descripción.
+2. Almacenamiento en Base de Datos: El sistema procesa el registro y guarda la nueva causa en la base de datos con un identificador único y un estado activo.
+3. Difusión e Interacción: Otros miembros de la comunidad ingresan al enlace de la causa y, con un solo clic, seleccionan la opción de "Apoyar causa".
+4. Registro de Apoyos: El sistema valida y registra cada apoyo de forma anónima o con datos mínimos en la base de datos, vinculando el apoyo al identificador de la causa correspondiente.
+5. Generación de la Petición: Al alcanzarse una meta de apoyos o por solicitud del creador, el sistema recopila los datos, calcula el total de respaldos y genera automáticamente un documento PDF formal listo para ser descargado y presentado ante las autoridades correspondientes.
